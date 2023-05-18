@@ -1,7 +1,7 @@
 
 ![343494629_540460038301734_1974137806894830251_n](https://github.com/justlittletest/justlittletest/assets/115819008/6fc99609-cf22-426e-9e7a-ddd5151dc4d9)
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏼‍💻  About Me</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
